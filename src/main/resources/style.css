@@ -1,0 +1,50 @@
+.btn_start {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 0 0 1.5 0;
+}
+
+.btn_start:hover{
+    -fx-background-color: white;
+    -fx-border-color: #A8EB12;
+    -fx-text-fill: #A8EB12;
+    -fx-border-width: 0 0 1.5 0;
+}
+
+.btn_setting {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 0 0 1.5 0;
+}
+
+.btn_setting:hover {
+    -fx-background-color: white;
+    -fx-border-color: #008793;
+    -fx-text-fill: #008793;
+    -fx-border-width: 0 0 1.5 0;
+}
+
+.btn_exit {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 0 0 1.5 0;
+}
+.btn_exit:hover{
+    -fx-background-color: white;
+    -fx-border-color: #C34A36;
+    -fx-text-fill: #C34A36;
+    -fx-border-width: 0 0 1.5 0;
+}
+
+#checkboxMusic .box{
+    -fx-background-color: #00bf72;
+    -fx-shadow-hightlight-color: #a8eb12;
+}
+#checkboxMusic {
+    -fx-text-fill: #051937;
+}
+
+.game_field {
+    -fx-background-image: url("assets/soilTexture.jpg");
+}
+
